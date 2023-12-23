@@ -1,2 +1,3 @@
 # YTÜ Applied Artificial Intelligence Research Laboratory
-Lorem
+- Lorem 
+- ipsum
