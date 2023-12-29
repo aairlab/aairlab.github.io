@@ -7,8 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yildiz Technical University
-                           Applied Artificial Intelligence Research Laboratory"
+title                    : ""
 title_separator          : "-"
 name                     : &name "YTÜ-A2IRLAB"
 description              : &description "personal description"
@@ -81,7 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yildiz Technical University
+                           Applied Artificial Intelligence Research Laboratory"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
