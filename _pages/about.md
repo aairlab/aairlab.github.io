@@ -2,8 +2,10 @@
 permalink: /
 title: >-
   Yildiz Technical University 
+
   Applied Artificial Intelligence 
-  SResearch Laboratory
+  
+  Research Laboratory
 excerpt: About me
 author_profile: true
 redirect_from:
