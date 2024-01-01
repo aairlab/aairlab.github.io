@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: >-
-  YTU-AAIRLAB
+  Yildiz Technical University Applied Artificial Intelligence Research Laboratory
 excerpt: About me
 author_profile: true
 redirect_from:
