@@ -1,11 +1,14 @@
 # main links links
 main:
 
-  - title: "Main"
+  - title: "Home"
     url: /about/
 
   - title: "Research"
     url: /research/
+
+  - title: "Projects"
+    url: /projects/
 
   - title: "People"
     url: /people/
@@ -18,7 +21,4 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Blog Posts"
-    url: /year-archive/
     
