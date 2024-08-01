@@ -7,7 +7,7 @@ author_profile: true
 
 ### Prof. Dr. Bora Işıldak
 
-<p align="left"><img src="../images/people_images/bora_isildak.png" alt="drawing" width="100"></p>
+<p align="left"><img src="../images/people_images/bora_isildak.png" alt="drawing" width="150"></p>
 
 ### Assoc. Prof. Nihan Kahraman
 
@@ -16,6 +16,6 @@ author_profile: true
 ### Asu Güvenli
 
 <p align="left"><img src="../images/people_images/asu_guvenli.png"
-alt="drawing" width="100"></p>
+alt="drawing" width="150"></p>
 
 
