@@ -14,11 +14,11 @@ author_profile: true
 ### Asst. Prof. Murat Taşkıran
 
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
     <img src="../images/people_images/asu_guvenli.png" alt="drawing" width="200" style="margin-right: 20px;">
     <div>
-        <p style="font-size: 20px; margin-bottom: 10px;"><strong>Asu Güvenli</strong></p>
-        <p style="font-size: 14px; margin: 0;">Graduate Student - MSc</p>
+        <p style="font-size: 20px;"><strong>Asu Güvenli</strong></p>
+        <p style="font-size: 14px; margin-bottom: 14px;">Graduate Student - MSc</p>
         <p style="font-size: 14px; margin: 0;">B.S. in Physics, Bogazici University</p>
         <p style="font-size: 14px; margin: 0;">MSc in Physics, Ozyegin University, Current</p>
         <p style="font-size: 14px; margin: 0;">e-mail: <a href="mailto:asuguvenli@gmail.com">asuguvenli@gmail.com</a></p>
