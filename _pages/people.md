@@ -15,8 +15,8 @@ author_profile: true
 
 
 <div style="display: flex; align-items: center;">
-    <img src="../images/people_images/asu_guvenli.png" alt="drawing" width="150" style="margin-right: 14px;">
-    <div>
+    <img src="../images/people_images/asu_guvenli.png" alt="drawing" width="150" style="margin-right: 20px;">
+    <div style="font-size: 14px;">
         <p><strong>Asu Güvenli</strong></p>
         <p>Graduate Student - MSc</p>
         <p>B.S. in Physics, Bogazici University</p>
@@ -26,5 +26,4 @@ author_profile: true
         <p>My research focuses on the intersection of Particle Physics and Artificial Intelligence, particularly in using novel AI architectures to solve the B quark jet tagging problem and enhance anomaly detection for CMS HCAL data quality monitoring.</p>
     </div>
 </div>
-
 
