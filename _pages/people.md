@@ -17,7 +17,7 @@ author_profile: true
 <div style="display: flex; align-items: center;">
     <img src="../images/people_images/asu_guvenli.png" alt="drawing" width="200" style="margin-right: 20px;">
     <div>
-        <p style="font-size: 20px;"><strong>Asu Güvenli</strong></p>
+        <p style="font-size: 20px; margin: 1;"><strong>Asu Güvenli</strong></p>
         <p style="font-size: 14px; margin: 0;">Graduate Student - MSc</p>
         <p style="font-size: 14px; margin: 0;">B.S. in Physics, Bogazici University</p>
         <p style="font-size: 14px; margin: 0;">MSc in Physics, Ozyegin University, Current</p>
