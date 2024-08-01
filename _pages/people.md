@@ -13,10 +13,9 @@ author_profile: true
 
 ### Asst. Prof. Murat Taşkıran
 
-### Asu Güvenli
 
 <div style="display: flex; align-items: center;">
-    <img src="../images/people_images/asu_guvenli.png" alt="drawing" width="150" style="margin-right: 20px;">
+    <img src="../images/people_images/asu_guvenli.png" alt="drawing" width="150" style="margin-right: 14px;">
     <div>
         <p><strong>Asu Güvenli</strong></p>
         <p>Graduate Student - MSc</p>
