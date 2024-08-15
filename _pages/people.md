@@ -14,7 +14,7 @@ author_profile: true
 ### Asst. Prof. Murat Taşkıran
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <div style="display: flex; align-items: flex-start; flex: 1 1 calc(50% - 20px);">
+    <div style="display: flex; align-items: flex-start; flex: 1 1 calc(50% - 30px);">
         <img src="../images/people_images/asu_guvenli.png" alt="Asu Güvenli" width="150" style="margin-right: 20px;">
         <div style="font-size: 14px;">
             <p style="font-size: 20px; margin: 0;"><strong>Asu Güvenli</strong></p>
@@ -26,8 +26,8 @@ author_profile: true
         </div>
     </div>
     
-    <div style="display: flex; align-items: flex-start; flex: 1 1 calc(50% - 20px);">
-        <img src="../images/people_images/eda_erdogan.png" alt="Eda Erdoğan" width="150" style="margin-right: 20px;">
+    <div style="display: flex; align-items: flex-start; flex: 1 1 calc(50% - 30px);">
+        <img src="../images/people_images/eda_erdogan.png" alt="Eda Erdoğan" width="145" style="margin-right: 20px;">
         <div style="font-size: 14px;">
             <p style="font-size: 20px; margin: 0;"><strong>Eda Erdoğan</strong></p>
             <p style="margin: 0;">MSc Student in Physics</p>
