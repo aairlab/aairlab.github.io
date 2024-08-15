@@ -12,6 +12,9 @@ author_profile: true
 ### Assoc. Prof. Nihan Kahraman
 
 ### Asst. Prof. Murat Taşkıran
+#
+#
+#
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
     <div style="display: flex; align-items: flex-start; flex: 1 1 calc(50% - 30px);">
